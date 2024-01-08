@@ -1,0 +1,1 @@
+básicamente é um dos primeiros projetos que fiz para praticar a lógica JavaScript no meu curso, não é muito bonito visualmente, mas é funcional
